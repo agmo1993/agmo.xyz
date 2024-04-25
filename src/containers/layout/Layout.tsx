@@ -1,4 +1,4 @@
-import { Email, Footer, Navbar, Social } from '@/containers';
+import { Email, Navbar, Social } from '@/containers';
 
 type Props = {
   children: React.ReactNode;
