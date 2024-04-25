@@ -19,7 +19,7 @@ export interface NavbarSectionType {
 
 export interface HeroSectionType extends Section {
   subtitle?: string;
-  tagline: string;
+  tagline? : string;
   description?: string;
   specialText?: string;
   cta?: CTAType & {

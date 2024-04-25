@@ -8,12 +8,12 @@ export const aboutSection: AboutSectionType = {
     title: 'Here are a few technologies I’ve been working with recently:',
     items: [
         'NextJs',
-        'TailwindCSS',
-        'ExpressJs',
-        'Unit Testing',
+        'Nodejs',
+        'Apollo GraphQL',
         'TypeScript',
-        'CSS Animations',
+        'PostgreSQL (with PostGIS)',
+        'Bash',
     ],
     },
-    img: '/vatsal-singh.jpg',
+    img: '/abdul.jpeg',
 };

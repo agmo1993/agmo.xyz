@@ -14,7 +14,6 @@ const Layout = ({ children, className = '' }: Props) => {
       >
         {children}
       </main>
-      <Footer />
       <Social />
       <Email />
     </>
