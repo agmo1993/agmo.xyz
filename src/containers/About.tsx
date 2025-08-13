@@ -24,12 +24,9 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            I work as a Software Engineer at the Australian Broadcasting
-            Corporation. My main responsibility is to keep ABC's digital API platforms
-            running smoothly, delivering data and content for our digital
-            products. Occasionally, I also contribute to front-end development
-            if I see an opportunity for improvement. I hold a JSNAD certification and
-            am currently working towards the JSNSD certification.
+            I work as a Full Stack Software Eningeer at Champion Data, where I
+            build and maintain high-performance full stack applications for 
+            applied machine learning and artificial intelligence. 
           </p>
 
           {list && (

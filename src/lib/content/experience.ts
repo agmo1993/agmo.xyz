@@ -5,7 +5,7 @@ export const experienceSection: ExperienceSectionType = {
   experiences: [
     {
       company: 'Champion Data',
-      companyUrl: 'https://www.abc.net.au/digital-product',
+      companyUrl: 'https://www.championdata.com/home',
       role: 'Full Stack Software Engineer',
       started: 'February 2025',
       upto: 'Present',
