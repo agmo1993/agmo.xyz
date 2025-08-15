@@ -24,7 +24,7 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            I work as a Full Stack Software Eningeer at Champion Data, where I
+            I work as a Full Stack Developer at Champion Data, where I
             build and maintain high-performance full stack applications for 
             applied machine learning and artificial intelligence. 
           </p>
